@@ -1,5 +1,5 @@
-#SATURDAY TEST 1 (11/10/2025)
-
+#SATURDAY TEST 1 
+#Print right Angled Triangle
 n1=int(input('Enter n1:'))
 n2=int(input('Enter n2:'))
 n3=int(input('Enter n3:'))
@@ -48,6 +48,7 @@ for i in range(len(lst)):
     if lst[i]>=0:
         res.append(lst[i])
 print(res)   
+
 
 
 
